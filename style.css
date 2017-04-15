@@ -12,6 +12,44 @@ div.textheader {
   padding-top: 45px;
 }
 
+div.texttt {
+  font-size: 40px;
+  font-weight: 400;
+  text-decoration: none;
+  font-family: "Helvetica";
+  text-align: center;
+  padding-top: 45px;
+}
+
+div.textt {
+  font-size: 20px;
+  font-weight: 300;
+  text-decoration: none;
+  font-family: "Helvetica";
+  text-align: center;
+  padding-top: 45px;
+}
+
+div.buy {
+  font-size: 18px;
+  font-weight: 300;
+  text-decoration: none;
+  font-family: "Helvetica";
+  text-align: left;
+  padding-top: 45px;
+  padding-left: 50px;
+}
+
+div.small {
+  font-size: 12px;
+  font-weight: 300;
+  text-decoration: none;
+  font-family: "Helvetica";
+  text-align: left;
+  padding-top: 45px;
+  padding-left: 50px;
+}
+
 div.textcontent {
   font-size: 18px;
   font-weight: 300;
