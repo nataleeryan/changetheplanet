@@ -1,2 +1,0 @@
-# changetheplanet
-HampHack
